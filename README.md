@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yonconz/">
-    <img src="https://discord.c99.nl/widget/theme-1/1006731636324433920.png"/>
+    <img src="https://prnt.sc/LP3C6YL5V2bk"/>
      </a>
 </p>
 

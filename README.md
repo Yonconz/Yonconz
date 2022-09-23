@@ -1,7 +1,7 @@
-# Duh#2700
+# Yonconع#7799
 
 <p align="center">
-  <a href="https://github.com/WeLoveYouDuh">
+  <a href="https://www.instagram.com/yonconz/">
     <img src="https://discord.c99.nl/widget/theme-1/1006731636324433920.png"/>
      </a>
 </p>
